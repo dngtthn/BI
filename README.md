@@ -1,8 +1,15 @@
-# BI
-We provide code part for TelcoCustomer data, which can be found on Kaggle, following this link 
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn .
+📊 Telco Customer Churn Prediction
+This project analyzes customer churn behavior in the telecommunications industry and builds an interactive dashboard to explore key factors influencing churn.
 
-
-This project focuses on predicting customer churn (i.e., whether a customer will leave a telecom company) using machine learning techniques. 
-
-The model is trained on customer data, including demographics and usage patterns, to predict the likelihood of churn. This can help telecom companies retain customers by identifying at-risk customers and taking appropriate actions. 
+📁 Dataset
+Telco Customer Churn dataset (.xlsx)
+Contains features such as customer demographics, service usage, and churn labels
+🔧 Tools Used
+Power BI for data visualization
+Excel for data preprocessing
+📈 Key Insights
+Customers with fiber optic internet have a higher churn rate
+Month-to-month contracts contribute significantly to churn
+Long-term customers tend to stay longer with better service plans
+📊 Dashboard Preview
+<img width="1368" height="767" alt="image" src="https://github.com/user-attachments/assets/8b25ea01-38c7-4b99-bd4a-f72ee8c5a802" />
